@@ -1,0 +1,50 @@
+.box-history{
+    background-color: white;
+    margin: 130px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 150px;
+    margin-bottom: -70px;
+}
+
+.img-history{
+    height: 250px;
+    width: 230px;
+}
+.re_sult{
+    padding: 0px 300px;
+    padding-left: 0px;
+    
+}
+.des_th{
+    text-indent: 30px;
+}
+
+.boximg-history{
+    border: 5px ;
+    float: right;
+    margin-top: -250px;
+}
+
+.date-user{
+    float: right;
+    margin-top: -380px;
+    margin-right: 50px;
+}
+
+.text-history {
+    color: white;
+}
+
+.btn_delete{
+    float: right;
+    margin-top: -342px;
+    margin-right: -240px;
+    background-color: red;
+    cursor: pointer;
+}
+
+.choice{
+    border: 10px solid red;
+}
+

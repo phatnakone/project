@@ -1,0 +1,38 @@
+.boc-box{
+    background-color: #1b4e7e;
+    text-align: center;
+    padding: 10px;
+    margin-top: 40px;
+    color: white;
+}
+
+.fontend{
+    width:150px;
+    height: 150px;
+    border-radius: 100px;
+}
+
+.end{
+    display: inline-block;
+   margin: auto;
+   width: 150px;
+   padding: 3px;
+   width: 300px;
+   color: white;
+}
+
+.boximg-team{
+    margin-top: 120px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
